@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.login-bg {
+  background: url("/Images/Cups-bg.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
